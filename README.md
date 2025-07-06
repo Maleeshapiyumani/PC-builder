@@ -1,7 +1,7 @@
 # 🛠️ PC Builder – Project Management Report
 ## 🖼️ UI Preview
 
-![PC Builder UI Mockup](src/ui/pc-builder-ui.png)
+![PC Builder UI Mockup](src/ui.jpg)
 
 ## 📘 Overview
 This repository contains the full project management documentation for **PC Builder**, a dual-platform e-commerce application that allows users to configure and purchase custom-built PCs. The project follows Agile methodologies and focuses on delivering a high-quality, user-centered experience.
